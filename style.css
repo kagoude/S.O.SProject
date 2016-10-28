@@ -1,0 +1,228 @@
+body {
+	
+	margin-top:0px;
+	margin-right:0;
+	margin-left:0;
+	margin-bottom: 0;
+}
+
+
+#topBar {
+	
+	color:black;
+	background-color: black;
+	margin:auto;
+	margin-top: 0;
+	height: 10px;
+
+}
+
+#header {
+	
+	border-width:2px;
+	color:black;
+	font-family:sans-serif;
+	font-size:15px;
+	width:900px;
+	margin:auto;	
+	padding-left: 0;	
+}
+
+#header img {
+	
+	padding-top: 20px;
+	padding-right: 200px;
+	margin-left: 0px;
+
+}
+#navigationtop {
+	
+	width:100%;
+	margin:auto;
+	background-color: black;
+	height: 10px;
+		
+}
+
+#navigationtop > ul {
+		
+    text-align: right;
+    
+    	
+}
+
+#navigationtop > ul > li {
+	
+	list-style:none;   /* remove the bullet points */
+	float:right;
+	
+	
+}
+
+#navigationtop > ul > li > a {
+    color:white;
+	background-color: black;
+    padding: 10px 50px;
+    text-decoration: none;
+	font-size:17px;
+	font-family: helvetica;
+	text-align:center;
+	display:block;
+	
+}
+
+#navigationtop > ul  a:hover {
+	background-color:  #ff6600;
+    color: black;
+}
+
+#open {
+    background-color: #ff6600;
+    color: black;
+	padding: 10px 50px;
+    text-decoration: none;
+	font-size:17px;
+	font-family: helvetica;
+	text-align:center;																																														
+	display:block;
+}
+
+#index {
+	
+	margin-left: 1340px;
+	margin-right: 40px;
+	margin-top: 100px;
+	padding-right: 20px;
+	float: right;
+	position: absolute;
+	background-color: #ff6600;
+	text-align: right;
+	
+
+
+}
+
+#index a:link {
+	font-family: Helvetica;
+	color: black;
+	font-style: italic;
+	text-decoration: none;
+
+}
+#index a:visited {
+	font-family: Helvetica;
+	color: black;
+	font-style: italic;
+	text-decoration: none;
+
+}
+#index a:hover {
+	font-family: Helvetica;
+	color: white;
+	font-style: italic;
+
+}
+
+#index h3 {
+	padding-bottom: 50px;
+
+
+}
+
+#index ul {
+	text-decoration: none;
+
+list-style-type: none;
+
+
+
+}
+
+#index ul li {
+	padding-bottom: 20px;
+
+
+}
+
+#content {
+	border-width:2px;
+	width:900px;
+	display:block;
+	
+	margin:auto;
+	margin-bottom:7%;
+	font-family: helvetica;
+	padding-top:80px;
+	padding-left:20px;
+	padding-bottom:50px;
+	padding-right: 20px;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
+	position: static;
+}
+#content ul li {
+	padding-bottom: 12px;
+
+}
+
+#content a:link {
+	font-family: Helvetica;
+	color: #ff6600;
+	font-style: italic;
+	text-decoration: none;
+	padding-bottom: 4px;
+
+}
+#content a:visited {
+	font-family: Helvetica;
+	color: #ff6600;
+	font-style: italic;
+	text-decoration: none;
+	
+
+}
+#content a:hover {
+	font-family: Helvetica;
+	color: black;
+	font-style: italic;
+	
+
+}
+#Schemalogo {
+	padding-left : 15%;
+	
+	
+
+}
+#AZlogo {
+	padding-left : 5px;
+	
+	
+}
+#content h1 {
+	font-size: 30px;
+	
+	
+}
+#content h2 {
+	color:#ff6600;
+	
+	
+}
+#content h3 {
+	color:#ff6600;
+	
+	
+}
+#footnote {
+	text-align:right;
+	margin:0;
+	margin-bottom: 0px;
+	background-color:#ff6600;
+	width:100%;
+	color:white;
+	height:40px;
+	position:relative;
+}
+
